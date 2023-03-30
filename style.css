@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "YekanBakh";
+    src: url(./fonts/Yekan-Bakh-Medium.woff);
+}
+
+body {
+    font-family: "YekanBakh";
+}
+
+i {
+    font-family: sans-serif;
+}
+
+hr {
+    height: 1px;
+    background-color: #878787;
+    border: none;
+}
